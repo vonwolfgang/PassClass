@@ -1,7 +1,7 @@
 # PassClass
 Calculating that a student can pass his class or can't in java
 
-![Kodluyoruz Logo](C:\Users\Computer\Desktop\Ekran görüntüsü 2021-06-26 154041.png)
+![Kodluyoruz Logo] (C:\Users\Computer\Desktop\Ekran görüntüsü 2021-06-26 154041.png)
 
 ## Instaliation
 Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek)
